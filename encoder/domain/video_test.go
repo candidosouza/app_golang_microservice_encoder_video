@@ -1,4 +1,4 @@
-package tests_test
+package domain_test
 
 import (
 	"encoder/domain"
